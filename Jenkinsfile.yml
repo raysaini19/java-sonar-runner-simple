@@ -1,0 +1,8 @@
+stages:
+  - pre-build
+  - test
+  - build
+  - deploy
+  - staging
+  - sanity
+  - release
